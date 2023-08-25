@@ -1,0 +1,81 @@
+.top-container {
+    background-image: url(./WebsitePhotos/Website/ThreadsCropped.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 100vh;
+    background-position: center;
+} 
+
+/* .top-container h1 span {
+    text-shadow: 0px 0px 10px #fff;
+} */
+
+.about-container img {
+    border-radius: 50%;
+}
+
+.col {
+    border: 0;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Serif Display', serif;
+}
+
+.commission {
+    background-image: url(./WebsitePhotos/Website/Scissors.jpg);
+    border: 0;
+    background-size: cover;
+}
+
+.follow {
+    background-image: url(./WebsitePhotos/Website/Scissors.jpg);
+    border: 0;
+    background-size: cover;
+}
+.contact {
+    background-image: url(./WebsitePhotos/Website/Scissors.jpg);
+    border: 0;
+    background-size: cover;
+}
+
+#carouselExampleIndicators img {
+   justify-items: center;
+   height: 600px;
+   object-fit: cover;
+}
+ a {
+    text-decoration: none;
+ }
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Serif Display', serif;
+    font-size: 6rem;
+}
+
+h2 {
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Noto Serif Display', serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Display', serif;
+    font-size: 14pt;
+    text-align: justify;
+}
+.tagline {
+    font-size: 1.5rem;
+}
+footer {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Noto Serif Display', serif;
+}
+
+.icon-square {
+    background-color: #BDCDD6;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+.btn {
+    background-color:#BDCDD6;
+}
